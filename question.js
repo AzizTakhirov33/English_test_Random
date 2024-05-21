@@ -72,8 +72,8 @@ const quiz = [
             'is there',          
             'are there',
             'there is',
-            'there is'],
-        answer:1
+            'there are'],
+        answer:2
     },
     {
         q:'9. How many beers _____ at your house?',
@@ -118,7 +118,7 @@ const quiz = [
             'there is no',
             'there are not',
             'there is'],
-        answer:1
+        answer:0
     },
     {
         q:'14.Jennifer, _____ tea in the coffee-pot?',
@@ -163,7 +163,7 @@ const quiz = [
             'in',
             'on',
             'under'],
-        answer:0
+        answer:2
     },
     {
         q:'19. Please, give me a call when you are _____ the train.',
@@ -244,7 +244,7 @@ const quiz = [
             'the',
             'a',
             'an'],
-        answer:1
+        answer:0
     },
     {
         q:'28. The teacher is from ____ USA.',
@@ -508,7 +508,7 @@ const quiz = [
             'Can, couldn’t',
             'Can, can',
             'could, can'],
-        answer:3
+        answer:0
     },
     {
         q:'57. A: ___ your brother ride a bike? B: No, he can’t. He is only free.',
@@ -526,7 +526,7 @@ const quiz = [
             'Could – could',
             'Can – can',
             'could, couldn’t'],
-        answer:3
+        answer:1
     },
     {
         q:'59.A: ____we do this crossword puzzle? B: No, we can’t. It’s really difficult.',
@@ -535,7 +535,7 @@ const quiz = [
             'could',
             'can',
             'couldn’t'],
-        answer:0
+        answer:2
     },
     {
         q:'60. A: Can you see the board, Tom? B: No, I ____',
@@ -687,7 +687,7 @@ const quiz = [
             'were',
             'was',
             'does'],
-        answer:2
+        answer:1
     },
     {
         q:'77. How ____ she come yesterday?',
@@ -714,7 +714,7 @@ const quiz = [
             'was',
             'were',
             'do'],
-        answer:0
+        answer:1
     },
     {
         q:'80. Where _____ your mother born?',
@@ -773,9 +773,9 @@ const quiz = [
     {
         q:'86. Where were you yesterday?',
         options: [
-            'Shewasatthepark', 
-            'theywereatthepark.',
-            'Iwasatthepark',
+            'She was at the park', 
+            'they were at the park.',
+            'I was at the park',
             'He was at the park'],
         answer:2
     },
@@ -831,7 +831,7 @@ const quiz = [
             'didn’t',
             'don’t',
             'wasn’t'],
-        answer:3
+        answer:1
     },
     {
         q:'93. Diana ______ her holiday in Bali last holiday.',
@@ -894,7 +894,7 @@ const quiz = [
             'are',
             'was',
             'is'],
-        answer:2
+        answer:0
     },
     {
         q:'100. He _____ a car.',
