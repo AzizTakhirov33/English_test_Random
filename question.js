@@ -244,7 +244,7 @@ const quiz = [
             'the',
             'a',
             'an'],
-        answer:0
+        answer:1
     },
     {
         q:'28. The teacher is from ____ USA.',
