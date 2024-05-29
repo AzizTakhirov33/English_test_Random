@@ -517,7 +517,7 @@ const quiz = [
             'can',
             'Can’t',
             'could'],
-        answer:2
+        answer:1
     },
     {
         q:'58. A: ___ you understand the lesson yesterday? B: Yes, I ____',
